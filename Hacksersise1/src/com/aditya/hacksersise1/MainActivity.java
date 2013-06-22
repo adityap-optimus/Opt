@@ -194,11 +194,8 @@ public class MainActivity extends WebServActivity implements OnClickListener,
 
 	@Override
 	public boolean onMenuItemSelected(int featureId, MenuItem item) {
-		switch (item.getItemId()) {
-		case R.id.action_preferences:
-			toPreferActivity();
-			break;
-		}
+		
+		
 		return super.onMenuItemSelected(featureId, item);
 	}
 

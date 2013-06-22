@@ -24,7 +24,6 @@ public final class R {
         public static final int ic_noti_running=0x7f020004;
     }
     public static final class id {
-        public static final int action_preferences=0x7f060010;
         public static final int decode=0x7f060000;
         public static final int decode_failed=0x7f060001;
         public static final int decode_succeeded=0x7f060002;
